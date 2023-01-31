@@ -8,6 +8,7 @@
   </p>
 </div>
 
+
 ### TEF4 Member
 Moh. Aufa Azka Fabian
 
@@ -16,6 +17,7 @@ Makharor Amnan
 Maharani B'anica Putri
 
 Masyita Andini 
+
 
 ### Technology 
 This section describes framework, libraries, and languages.
@@ -28,8 +30,13 @@ This section describes framework, libraries, and languages.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+
 ### Code Editor
 This section describes the code editor used
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+### UI/UX Desain
+
 
