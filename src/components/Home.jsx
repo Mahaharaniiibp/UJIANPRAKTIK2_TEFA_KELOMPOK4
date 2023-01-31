@@ -1,24 +1,34 @@
+// import { render } from '@testing-library/react';
 import React from 'react'
 import img from '../assets/Home1.png';
+import './index.css'
 
 const Home = () => {
   return (
     <section id="home">
     <div id="header">
+
+      {/* Image container */}
        <div >
-        <img src={img} alt="" className="w-2/2 mt-0 md/w-1/2 h-full object-cover" />
+        <img src={img} alt="" className="w-full mt-0 md/w-1/2 h-full object-cover " />
        </div>
-      <div id="title">
-        <h1>Furniture Cantik Pasti Fourtik</h1>
-        <p>
+       {/* End of image container */}
+
+       {/* Text container */}
+          <div className="text-container">
+          <h2>
         Welcome to the world of Fourniture
-        <br/>
+          </h2>
+
+  <div className="text-h3 h-screen">
+          <h3>
+            <br />
         We create high quality handcrafted all-weather furniture and decorative products designed for residential and commercial spaces. We present a product range that stands apart from the mainstream design philosophy in terms of aesthetic, functionality and durability.
-          
-        </p>
+          </h3>
       </div>
-      <br />
-    </div>
+          </div>
+      </div>
+      {/* End of text container */}
   </section>
   )
 }

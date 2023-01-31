@@ -9,7 +9,6 @@ const Index = () => {
     <Navbar />
     
     <Home />
-    
    
     <Footer />
 

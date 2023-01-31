@@ -1,20 +1,21 @@
 import React from 'react'
-import Navbar from './Navbar'
-import Footer from './Footer'
-import Product from './Product'
-// import Home from './Home'
 
-const Index = () => {
+import Home from './Home'
+import Navbar from './Navbar'
+import Product from './Product'
+
+import Footer from './Footer'
+const SearchNProduct= () => {
   return (
     <>
     <Navbar />
     
     <Product />
     
-    <Footer />
+    <Footer  />
 
     </>
   )
 }
 
-export default Index
+export default SearchNProduct
