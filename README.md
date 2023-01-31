@@ -10,8 +10,11 @@
 
 ### TEF4 Member
 Moh. Aufa Azka Fabian
-Moh. Aufa Azka Fabian
+
+Makharor Amnan
+
 Maharani B'anica Putri
+
 Masyita Andini 
 
 ### Technology 
