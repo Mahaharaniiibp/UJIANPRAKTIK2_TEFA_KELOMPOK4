@@ -45,4 +45,9 @@ This section describes the code editor used
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+Link Figma
+
+[wireframe and design](https://www.figma.com/file/aHxMkBCLoqjAtm9Cs6ZTbh/Mockup-tefa?node-id=0%3A1&t=OoFkT4PDf5KAAXxT-0)
+
+
 
