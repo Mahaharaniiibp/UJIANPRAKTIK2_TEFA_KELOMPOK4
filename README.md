@@ -10,7 +10,7 @@
 
 
 
-### TEF4 Member
+## TEF4 Member
 Moh. Aufa Azka Fabian
 
 Makharor Amnan
@@ -21,7 +21,7 @@ Masyita Andini
 
 
 
-### Technology 
+## Technology 
 This section describes framework, libraries, and languages.
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -34,14 +34,14 @@ This section describes framework, libraries, and languages.
 
 
 
-### Code Editor
+## Code Editor
 This section describes the code editor used
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 
-### UI/UX Desain
+## UI/UX Desain
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -49,12 +49,12 @@ Link Figma
 
 [wireframe and design](https://www.figma.com/file/aHxMkBCLoqjAtm9Cs6ZTbh/Mockup-tefa?node-id=0%3A1&t=OoFkT4PDf5KAAXxT-0)
 
-### Web Documentation
+## Web Documentation
 
-## Home 
+### Home 
 
 
-## Product
+### Product
 
 
 
