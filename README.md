@@ -47,7 +47,7 @@ This section describes the code editor used
 
 Link Figma
 
-[wireframe and design](https://www.figma.com/file/aHxMkBCLoqjAtm9Cs6ZTbh/Mockup-tefa?node-id=0%3A1&t=OoFkT4PDf5KAAXxT-0)
+[wireframe and design](https://www.figma.com/file/8LUEU6zGqXmZGh5IszYDHs/UJIAN-PRAKTIK-2-TEFA-FE-K.4?node-id=0%3A1&t=H2NZNFqKphxaaRuu-1)
 
 ## Web Documentation
 
