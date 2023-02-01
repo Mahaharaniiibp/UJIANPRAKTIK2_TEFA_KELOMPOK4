@@ -1,21 +1,18 @@
-import React from 'react'
+import React from "react";
+import Navbar from "./Navbar";
+import Product from "./Product";
 
-import Home from './Home'
-import Navbar from './Navbar'
-import Product from './Product'
-
-import Footer from './Footer'
-const SearchNProduct= () => {
+import Footer from "./Footer";
+const SearchNProduct = () => {
   return (
     <>
-    <Navbar />
-    
-    <Product />
-    
-    <Footer  />
+      <Navbar />
 
+      <Product />
+
+      <Footer />
     </>
-  )
-}
+  );
+};
 
-export default SearchNProduct
+export default SearchNProduct;
