@@ -1,19 +1,18 @@
-import React from 'react'
-import Navbar from './Navbar'
-import Footer from './Footer'
-import Home from './Home'
+import React from "react";
+import Navbar from "./Navbar";
+import Footer from "./Footer";
+import Home from "./Home";
 
 const Index = () => {
   return (
     <>
-    <Navbar />
-    
-    <Home />
-   
-    <Footer />
+      <Navbar />
 
+      <Home />
+
+      <Footer />
     </>
-  )
-}
+  );
+};
 
-export default Index
+export default Index;
