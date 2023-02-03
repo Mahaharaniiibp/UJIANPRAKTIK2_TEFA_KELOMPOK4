@@ -1,22 +1,18 @@
 import React from "react";
 import Navbar from "./Navbar";
+import Member from "./Member";
+
 import Footer from "./Footer";
-import Home from "./Home";
-
-
-
-const Index = () => {
+const MemberUi = () => {
   return (
     <>
       <Navbar />
 
-      <Home />
+      <Member />
 
       <Footer />
-
-      
     </>
   );
 };
 
-export default Index;
+export default MemberUi;

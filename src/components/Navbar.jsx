@@ -6,6 +6,8 @@ const Navbar = () => {
   const menuLinks = [
     { name: "HOME", link: "/" },
     { name: "PRODUCT", link: "/product" },
+    { name: "MEMBER", link: "/member" },
+    
   ];
   return (
     <nav className="font-['Poppins'] fixed w-full left-0 top-0 z-[999] bg-blue-800 text-white">
@@ -34,7 +36,7 @@ const Navbar = () => {
         </div>
         <div
           className={`md:hidden text-eunoiatext absolute w-2/5 h-screen
-      px-7 py-2 font-medium bg-white/90 top-0 duration-300 ${
+      px-7 py-2 font-medium bg-blue-800/90 top-0 duration-300 ${
         open ? "right-0" : "right-[-100%]"
       }`}
         >

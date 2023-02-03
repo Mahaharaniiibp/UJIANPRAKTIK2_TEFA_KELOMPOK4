@@ -1,0 +1,43 @@
+[
+    {
+      "id": "sku2458",
+      "name": "Maskharor Amnan Nidhom",
+      "price": "Malang",
+      "image": "https://pbs.twimg.com/media/FoBtrkBaIAA6-Xc?format=png&name=240x240",
+      "description": "Lahir di Jakarta tanggal 16 Desember tahun 2005 ",
+      "isDeleted": false,
+      "category": "Basket",
+      "expiryDate": "2022-07-24"
+    },
+    {
+      "id": "sku6942",
+      "name": "MOH. Aufa Azka Fabian",
+      "price": "Banyuwangi",
+      "image": "https://pbs.twimg.com/media/FoBtrj9akAIzOMj?format=png&name=240x240",
+      "description": "Lahir di Banyuwangi tanggal 05 Mei tahun 2005",
+      "isDeleted": false,
+      "category": "Berenang",
+      "expiryDate": null
+    },
+    {
+      "id": "sku0163",
+      "name": "Masyita Andini Larasati",
+      "price": "Malang",
+      "image": "https://pbs.twimg.com/media/FoBtrkAakAA3bBB?format=png&name=240x240",
+      "description": "Lahir di Makassar tanggal 21 September tahun 2005",
+      "isDeleted": false,
+      "category": "Voli",
+      "expiryDate": "2022-10-04"
+    },
+    {
+      "id": "sku3286",
+      "name": "Maharani B'anica Putri",
+      "price": "Tulungagung",
+      "image": "https://pbs.twimg.com/media/FoBtrj_aYAAHMqm?format=png&name=240x240",
+      "description": "Lahir di Tulungagung tanggal 01 Juni tahun 2005",
+      "isDeleted": false,
+      "category": "Menonton Film",
+      "expiryDate": null
+    }
+   
+  ]
